@@ -1,0 +1,41 @@
+.library{
+    
+    
+    font-size: 30px;
+    display: block;
+    align-items: center;
+    padding-left: 150px;
+  
+}
+
+    
+/*
+para{
+    font-size: 30px;
+    display: block;
+
+    padding-top: 0px; 
+    border-style: hidden; 
+    border: 2px solid transparent;
+    color:rgb(68, 15, 68);
+    border-width: 2px;
+    overflow: hidden;
+    border-radius: 4px;
+    
+
+} */
+.Containers{
+    
+  display: flex;
+    
+}
+
+.image{
+     border-radius: 50%;
+    align-items: center;
+    width: 550px;
+    height: 550px;
+
+
+}
+
